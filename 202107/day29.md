@@ -13,5 +13,6 @@
   jvm interpreter > 각 os형태에따라 기계어로변경
 
 - next()메소드 
-  + next() 다음 토큰을 문자열로 return
-  + nextLine()     **[****참고****](****https://sleepyeyes.tistory.com/22****)**
+  + next() 다음 토큰을 문자열로 return 
+  + nextLine()     **[참고][https://sleepyeyes.tistory.com/22]**
+
