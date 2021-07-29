@@ -14,5 +14,5 @@
 
 - next()메소드 
   + next() 다음 토큰을 문자열로 return 
-  + nextLine()     (https://sleepyeyes.tistory.com/22)
+  + nextLine()     https://sleepyeyes.tistory.com/22
 
